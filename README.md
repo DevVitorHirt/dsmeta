@@ -1,3 +1,2 @@
 # dsmeta
-
-# Java Training
+Java Training
